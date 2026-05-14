@@ -1,0 +1,24 @@
+{
+  "stage_b": {
+    "run_id": "gh-25850931734-1",
+    "status": "success",
+    "processed_urls": ["https://arxiv.org/abs/2501.12948"],
+    "videos_processed": 1
+  },
+  "stage_c": {
+    "run_id": "gh-25850931734-1",
+    "start_time": "2026-05-14T08:49:42Z",
+    "end_time": "2026-05-14T08:50:36Z",
+    "duration_s": 53,
+    "llm_calls": 14,
+    "pages_created": 12,
+    "sources": 1,
+    "entities": 5,
+    "concepts": 6,
+    "comparisons": 0,
+    "prompt_tokens": 8834,
+    "completion_tokens": 11846,
+    "status": "success"
+  },
+  "tg_summary": "[ARXIV-RESEARCH] ✅ 一遍过\n\n📄 DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning\n🔗 https://arxiv.org/abs/2501.12948\n\n⏱️ 耗时：Stage C 53s\n🔢 Token：20,680（↑8,834 / ↓11,846）\n\n📊 知识图谱：\n  Source 1 / Entity 5 / Concept 6 / 总 12 页\n\n🟢 Entities：\n  · AIME 2024\n  · Codeforces\n  · DeepSeek-AI\n  · DeepSeek-R1\n  · GPQA Diamond\n\n🟡 Concepts：\n  · 强化学习\n  · 推理链\n  · 知识蒸馏\n  · 组相对策略优化\n  · 自我反思\n  · 验证\n\n🔗 入口：\n  · DeepSeek-R1: 通过强化学习激发大模型推理能力\n    https://github.com/divanoo65/arxiv-wiki/blob/main/wiki/sources/deepseek-r1-%E9%80%9A%E8%BF%87%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E6%BF%80%E5%8F%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B.md\n  · 知识图谱索引\n    https://github.com/divanoo65/arxiv-wiki\n\nrun_id: gh-25850931734-1"
+}
