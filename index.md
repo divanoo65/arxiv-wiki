@@ -1,8 +1,9 @@
 # YouTube Video Research Wiki
 Last updated: 2026-05-14
-Total pages: 8
+Total pages: 6
 
 ## Sources
+- [[分析-claude-code-项目架构设计]]
 - [[deepseek-r1-通过强化学习激发大模型推理能力]]
 - [[扩展托管智能体-将大脑与双手解耦]]
 
@@ -17,10 +18,12 @@ Total pages: 8
 - [[claude-opus-4-5]]
 - [[mcp]]
 - [[aime-2024]]
+- [[claude-code]]
 - [[oauth]]
 - [[anthropic]]
 
 ## Concepts
+- [[工具调用]]
 - [[提示词注入]]
 - [[宠物与牲畜架构]]
 - [[验证]]
@@ -31,8 +34,10 @@ Total pages: 8
 - [[动态策略适应]]
 - [[会话持久化]]
 - [[推理链]]
+- [[ai-软件工程]]
 - [[强化学习]]
 - [[上下文修剪]]
+- [[上下文管理]]
 - [[托管智能体]]
 - [[组相对策略优化]]
 - [[上下文焦虑]]
