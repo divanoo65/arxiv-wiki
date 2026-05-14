@@ -1,0 +1,24 @@
+{
+  "stage_b": {
+    "run_id": "gh-25851984433-1",
+    "status": "success",
+    "processed_urls": ["https://arxiv.org/abs/2501.12948"],
+    "videos_processed": 1
+  },
+  "stage_c": {
+    "run_id": "gh-25851984433-1",
+    "start_time": "2026-05-14T09:14:40Z",
+    "end_time": "2026-05-14T09:15:09Z",
+    "duration_s": 28,
+    "llm_calls": 7,
+    "pages_created": 14,
+    "sources": 1,
+    "entities": 5,
+    "concepts": 8,
+    "comparisons": 0,
+    "prompt_tokens": 3861,
+    "completion_tokens": 5955,
+    "status": "success"
+  },
+  "tg_summary": "[ARXIV-RESEARCH] #T-gh-25851984433-1 ✅ 一遍过\n\n📄 DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning\n🔗 https://arxiv.org/abs/2501.12948\n\n⏱️ 耗时：Stage C 28s\n🔢 Token：9,816（↑3,861 / ↓5,955）\n\n📊 知识图谱：\n  Source 1 / Entity 5 / Concept 8 / 总 14 页\n\n🟢 Entities：\n· DeepSeek-R1\n· DeepSeek-AI\n· AIME 2024\n· Codeforces\n· GPQA Diamond\n\n🟡 Concepts：\n· 组相对策略优化（GRPO）\n· 强化学习\n· 推理链\n· 自我反思\n· 验证\n· 知识蒸馏\n· 安全对齐\n· 动态策略适应\n\n🔗 入口：\n  · DeepSeek-R1: 通过强化学习激发大模型推理能力\n    https://github.com/divanoo65/arxiv-wiki/blob/main/wiki/sources/deepseek-r1-通过强化学习激发大模型推理能力.md\n  · 知识图谱索引\n    https://github.com/divanoo65/arxiv-wiki\n\nrun_id: gh-25852061251-1"
+}
