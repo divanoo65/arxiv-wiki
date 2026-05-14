@@ -1,0 +1,27 @@
+{
+  "stage_b": {
+    "run_id": "gh-25853359169-1",
+    "status": "success",
+    "processed_urls": [
+      "https://www.anthropic.com/engineering/managed-agents",
+      "https://arxiv.org/abs/2501.12948"
+    ],
+    "videos_processed": 2
+  },
+  "stage_c": {
+    "run_id": "gh-25853359169-1",
+    "start_time": "2026-05-14T09:50:19Z",
+    "end_time": "2026-05-14T09:50:58Z",
+    "duration_s": 38,
+    "llm_calls": 11,
+    "pages_created": 29,
+    "sources": 2,
+    "entities": 12,
+    "concepts": 15,
+    "comparisons": 0,
+    "prompt_tokens": 11439,
+    "completion_tokens": 7542,
+    "status": "success"
+  },
+  "tg_summary": "[ARXIV+WEB-LINK] ✅ 一遍过\n\n📄 DeepSeek-R1: 通过强化学习激发大模型推理能力\n🔗 https://arxiv.org/abs/2501.12948\n\n📄 扩展托管智能体：将\"大脑\"与\"双手\"解耦\n🔗 https://www.anthropic.com/engineering/managed-agents\n\n⏱️ 耗时：Stage C 38s\n🔢 Token：18,981（↑11,439 / ↓7,542）\n\n📊 知识图谱：\n  Source 2 / Entity 12 / Concept 15 / 总 29 页\n\n🟢 Entities：\n  · DeepSeek-AI\n  · DeepSeek-R1\n  · Anthropic\n  · Claude\n  · Claude Opus 4.5\n  · Claude Sonnet 4.5\n  · AIME-2024\n  · Codeforces\n  · GPQA Diamond\n  · Git\n  · MCP\n  · OAuth\n\n🟡 Concepts：\n  · 强化学习\n  · 组相对策略优化\n  · 自我反思\n  · 验证\n  · 动态策略适应\n  · 知识蒸馏\n  · 推理链\n  · 安全对齐\n  · 上下文焦虑\n  · 上下文修剪\n  · 会话持久化\n  · 托管智能体\n  · 辅助框架\n  · 宠物与牲畜架构\n  · 提示词注入\n\n🔗 入口：\n  · DeepSeek-R1: 通过强化学习激发大模型推理能力\n    https://github.com/divanoo65/arxiv-wiki/blob/main/wiki/sources/deepseek-r1-%E9%80%9A%E8%BF%87%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E6%BF%80%E5%8F%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B.md\n  · 扩展托管智能体：将大脑与双手解耦\n    https://github.com/divanoo65/arxiv-wiki/blob/main/wiki/sources/%E6%89%A9%E5%B1%95%E6%89%98%E7%AE%A1%E6%99%BA%E8%83%BD%E4%BD%93-%E5%B0%86%E5%A4%A7%E8%84%91%E4%B8%8E%E5%8F%8C%E6%89%8B%E8%A7%A3%E8%80%A6.md\n  · 知识图谱索引\n    https://github.com/divanoo65/arxiv-wiki\n\nrun_id: gh-25853359169-1"
+}
